@@ -1,0 +1,37 @@
+﻿@model IEnumerable<WebAppProyectoFinal.Models.TbReserva>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<html>
+    <head>
+
+    </head>
+    <body>
+        <h3 class="alert-primary">Listado de reservas</h3>
+        <table class="table table-bordered">
+            <tr>
+                <td>ID</td>
+                <td>Fecha Reserva</td>
+                <td>Fecha Devolución</td>
+                <td>Cliente</td>
+                <td>Estado</td>
+                <td>Ver detalle</td>
+            </tr>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.IdPrestamo</td>
+                        <td>@item.FecPrestamo</td>
+                        <td>@item.FecDevolucion</td>
+                        <td>@item.getNomCli()</td>
+                        <td>@item.Estado</td>
+                        <td><a asp-controller="Detalle" asp-action="VerDetalle" asp-route-id="@item.IdPrestamo">Ver Detalle</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </body>
+</html>

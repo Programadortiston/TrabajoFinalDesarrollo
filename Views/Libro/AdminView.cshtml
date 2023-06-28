@@ -1,0 +1,62 @@
+﻿@model IEnumerable<WebAppProyectoFinal.Models.TbLibro>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<html>
+    <head>
+        
+    </head>
+    <body>
+        <h2>
+            <a asp-controller="Reserva" asp-action="ViewBookings" class="btn btn-info">
+                <span class="glyphicon glyphicon-eye-open"></span> Ver Reservas
+            </a>
+        </h2>
+        <h2>
+            <a asp-controller="Detalle" asp-action="VerDetalles" class="btn btn-info">
+                <span class="glyphicon glyphicon-eye-open"></span> Ver Detalles
+            </a>
+        </h2>
+        <h2><a asp-action="Nuevo" class="btn btn-success">
+                <span class="glyphicon glyphicon-plus"></span> Nuevo Libro
+            </a>
+        </h2>
+        <h3 class="alert-primary">Listado de libros</h3>
+        <table class="table table-bordered">
+            <tr>
+                <td>ID</td>
+                <td>Titulo</td>
+                <td>Genero</td>
+                <td>Autor</td>
+                <td>Año</td>
+                <td>Stock</td>
+            </tr>
+            <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.IdLibro</td>
+                    <td>@item.Titulo</td>
+                    <td>@item.Genero</td>
+                    <td>@item.Autor</td>
+                    <td>@item.Año</td>
+                    <td>@item.Stock</td>
+                    <td><a asp-action="Eliminar" asp-route-id="@item.IdLibro" 
+                        onclick="return confirmarEliminar()" class="btn btn-danger">
+                            <span class="glyphicon glyphicon-trash"></span> Eliminar
+                        </a>
+                    </td>
+                    <td><a asp-action="Modificar" asp-route-id="@item.IdLibro"
+                     class="btn btn-info">
+                            <span class="glyphicon glyphicon-pencil"></span> Modificar
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+        </table>
+    </body>
+</html>
+<script type="text/javascript" src="~/js/confirmaciones.js"></script>

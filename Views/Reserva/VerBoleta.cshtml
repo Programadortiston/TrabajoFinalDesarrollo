@@ -1,0 +1,28 @@
+﻿@model WebAppProyectoFinal.Models.TbReserva
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<html>
+    <head>
+
+    </head>
+    <body>
+        <h2>@Model.IdPrestamo</h2>
+        <h3>Fecha de reserva: @Model.FecPrestamo</h3>
+        <h3>Fecha de devolución: @Model.FecDevolucion</h3>
+        <h3>Cliente: @Model.getNomCli()</h3>
+        <h3>Estado: @Model.Estado</h3>
+        <form class="formulario" asp-controller="TemporalReserva" asp-action="AgregarDetalle" method="post">
+            <input type="hidden" asp-for="IdPrestamo" />
+            <input type="hidden" asp-for="FecPrestamo" />
+            <input type="hidden" asp-for="FecDevolucion" />
+            <input type="hidden" asp-for="IdCli" />
+            <input type="hidden" asp-for="Estado" />
+            <button type="submit" class="btn btn-primary">
+                <span class="glyphicon glyphicon-list-alt" aria-hidden="true"></span> Agregar Detalle
+            </button>
+        </form>
+    </body>
+</html>

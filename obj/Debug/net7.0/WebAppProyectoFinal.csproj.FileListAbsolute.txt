@@ -1,0 +1,532 @@
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\appsettings.Development.json
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\appsettings.json
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.staticwebassets.runtime.json
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.exe
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.deps.json
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.runtimeconfig.json
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.pdb
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Azure.Core.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Azure.Identity.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Humanizer.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.CodeDom.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Memory.Data.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.AssemblyReference.cache
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.AssemblyInfoInputs.cache
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.AssemblyInfo.cs
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.CoreCompileInputs.cache
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.MvcApplicationPartsAssemblyInfo.cache
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.RazorAssemblyInfo.cache
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.RazorAssemblyInfo.cs
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.WebAppProyectoFinal.Microsoft.AspNetCore.StaticWebAssets.props
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAppProyectoFinal.props
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAppProyectoFinal.props
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAppProyectoFinal.props
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.pack.json
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.build.json
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.development.json
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\bundle\WebAppProyectoFinal.styles.css
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\projectbundle\WebAppProyectoFinal.bundle.scp.css
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.CopyComplete
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\refint\WebAppProyectoFinal.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.pdb
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.genruntimeconfig.cache
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\ref\WebAppProyectoFinal.dll
+F:\universidad\Programacion web\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\appsettings.json
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.staticwebassets.runtime.json
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.exe
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.deps.json
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.runtimeconfig.json
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.pdb
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Humanizer.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.AssemblyInfo.cs
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.RazorAssemblyInfo.cache
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.RazorAssemblyInfo.cs
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.WebAppProyectoFinal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAppProyectoFinal.props
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAppProyectoFinal.props
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAppProyectoFinal.props
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\bundle\WebAppProyectoFinal.styles.css
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\projectbundle\WebAppProyectoFinal.bundle.scp.css
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.CopyComplete
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\refint\WebAppProyectoFinal.dll
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.pdb
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.genruntimeconfig.cache
+C:\Users\pc\Downloads\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\ref\WebAppProyectoFinal.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\appsettings.json
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.staticwebassets.runtime.json
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.exe
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.deps.json
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.runtimeconfig.json
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.pdb
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Humanizer.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.AssemblyInfo.cs
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.RazorAssemblyInfo.cache
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.RazorAssemblyInfo.cs
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.WebAppProyectoFinal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAppProyectoFinal.props
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAppProyectoFinal.props
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAppProyectoFinal.props
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\bundle\WebAppProyectoFinal.styles.css
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\projectbundle\WebAppProyectoFinal.bundle.scp.css
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.CopyComplete
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\refint\WebAppProyectoFinal.dll
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.pdb
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.genruntimeconfig.cache
+C:\Users\pc\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\ref\WebAppProyectoFinal.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\appsettings.json
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.staticwebassets.runtime.json
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.exe
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.deps.json
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.runtimeconfig.json
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.pdb
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.AssemblyInfo.cs
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.RazorAssemblyInfo.cache
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.RazorAssemblyInfo.cs
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.WebAppProyectoFinal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAppProyectoFinal.props
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAppProyectoFinal.props
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAppProyectoFinal.props
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\bundle\WebAppProyectoFinal.styles.css
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\projectbundle\WebAppProyectoFinal.bundle.scp.css
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.CopyComplete
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\refint\WebAppProyectoFinal.dll
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.pdb
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.genruntimeconfig.cache
+C:\Users\Josema\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\ref\WebAppProyectoFinal.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\appsettings.json
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.staticwebassets.runtime.json
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.exe
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.deps.json
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.runtimeconfig.json
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.pdb
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.AssemblyInfo.cs
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.RazorAssemblyInfo.cache
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.RazorAssemblyInfo.cs
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.WebAppProyectoFinal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAppProyectoFinal.props
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAppProyectoFinal.props
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAppProyectoFinal.props
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\bundle\WebAppProyectoFinal.styles.css
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\projectbundle\WebAppProyectoFinal.bundle.scp.css
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.CopyComplete
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\refint\WebAppProyectoFinal.dll
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.pdb
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.genruntimeconfig.cache
+C:\Users\Josema\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\ref\WebAppProyectoFinal.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\appsettings.json
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.staticwebassets.runtime.json
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.exe
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.deps.json
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.runtimeconfig.json
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.pdb
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Humanizer.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.AssemblyInfo.cs
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.RazorAssemblyInfo.cache
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.RazorAssemblyInfo.cs
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.WebAppProyectoFinal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAppProyectoFinal.props
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAppProyectoFinal.props
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAppProyectoFinal.props
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\bundle\WebAppProyectoFinal.styles.css
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\projectbundle\WebAppProyectoFinal.bundle.scp.css
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.CopyComplete
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\refint\WebAppProyectoFinal.dll
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.pdb
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.genruntimeconfig.cache
+C:\Users\pc\Desktop\CSS DEL JOSEEEE\WebAppProyectoFinal\obj\Debug\net7.0\ref\WebAppProyectoFinal.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\appsettings.json
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.staticwebassets.runtime.json
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.exe
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.deps.json
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.runtimeconfig.json
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\WebAppProyectoFinal.pdb
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Humanizer.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.AssemblyInfo.cs
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.RazorAssemblyInfo.cache
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.RazorAssemblyInfo.cs
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.WebAppProyectoFinal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAppProyectoFinal.props
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAppProyectoFinal.props
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAppProyectoFinal.props
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\bundle\WebAppProyectoFinal.styles.css
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\scopedcss\projectbundle\WebAppProyectoFinal.bundle.scp.css
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.csproj.CopyComplete
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\refint\WebAppProyectoFinal.dll
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.pdb
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\WebAppProyectoFinal.genruntimeconfig.cache
+C:\Users\HP\Desktop\WebAppProyectoFinal\WebAppProyectoFinal\obj\Debug\net7.0\ref\WebAppProyectoFinal.dll

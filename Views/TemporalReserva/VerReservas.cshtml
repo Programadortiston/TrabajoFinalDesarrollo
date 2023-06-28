@@ -1,0 +1,59 @@
+﻿@model IEnumerable<WebAppProyectoFinal.Models.TemporalReserva>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<html>
+    <head>
+
+    </head>
+    <body>
+        <h3 class="align-content-center alert-primary">Reservas realizadas</h3>
+        <table class="table table-bordered">
+            <tr>
+                <td>ID</td>
+                <td>Título</td>
+                <td>Género</td>
+                <td>Autor</td>
+                <td>Año</td>
+                <td>Stock</td>
+                <td>Cantidad</td>
+                <td>Cancelar Reserva</td>
+            </tr>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.id</td>
+                        <td>@item.titulo</td>
+                        <td>@item.genero</td>
+                        <td>@item.autor</td>
+                        <td>@item.año</td>
+                        <td>@item.stock</td>
+                        <td>@item.cantidad</td>
+                        <td><a asp-action="Eliminar" asp-route-id="@item.id"
+                           onclick="return confirmarQuitarReserva()" class="btn btn-danger">
+                            <span class="glyphicon glyphicon-trash"></span> Cancelar Reserva
+                            </a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <form class="formulario" asp-controller="Reserva" asp-action="VerBoleta" method="post">
+            @{
+                var fechaActual = @DateTime.Today;
+                var fechaDevolucion = fechaActual.AddDays(30);
+                var estado = "Aprobado";
+            }
+            <input type="hidden" name="txtfechaA" value="@fechaActual" />
+            <input type="hidden" name="txtfechaD" value="@fechaDevolucion" />
+            <input type="hidden" name="txtidCli" value="@ViewBag.idCli" />
+            <input type="hidden" name="txtestado" value="@estado" />
+            <button type="submit" class="btn btn-success" onclick="return confirmarReserva()">
+                <span class="glyphicon glyphicon-tags" aria-hidden="true"></span> Reservar libros
+            </button>
+        </form>
+    </body>
+</html>
+<script type="text/javascript" src="~/js/confirmaciones.js"></script>

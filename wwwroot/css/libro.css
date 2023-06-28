@@ -1,0 +1,194 @@
+﻿    input,
+    textarea,
+    button {
+        height: 46.1px;
+        margin: 0;
+        padding: 10px;
+        font-family: Raleway, sans-serif;
+        font-weight: normal;
+        font-size: 12pt;
+        outline: none;
+        border-radius: 0;
+        background: none;
+        border: 1px solid #282B33;
+}
+
+    button,
+    select {
+        height: 45px;
+        padding: 0 15px;
+        cursor: pointer;
+}
+
+    button {
+        background: none;
+        border: 1px solid black;
+        margin: 25px 0;
+}
+
+    button:hover {
+        background-color: #282B33;
+        color: white;
+    }
+
+
+
+    .herramientas {
+        overflow: auto;
+        zoom: 1;
+}
+
+    .buscar-area {
+        float: left;
+        width: 60%;
+}
+
+    .cambiar-vista {
+        display: none;
+        float: right;
+        width: 40%;
+        text-align: right;
+}
+
+    #cambiarVista {
+        display: none;
+        width: auto;
+        height: 47px;
+}
+
+    #btnBuscar {
+        width: 80px;
+        height: 47px;
+}
+
+    input#buscar {
+        width: 30%;
+        width: calc(100% - 90px);
+        padding: 10px;
+        border: 1px solid #282B33;
+}
+
+@media screen and (max-width:400px) {
+    .buscar-area {
+        width: 100%;
+    }
+}
+
+    .libros {
+        width: 100%;
+        font-family: Raleway;
+}
+
+    .libro {
+        display: inline-block;
+        width: calc(24% - 13px);
+        margin: 10px 10px 30px 10px;
+        vertical-align: top;
+}
+
+    .libro img {
+        display: block;
+        margin: 0 auto;
+        width: auto;
+        height: 200px;
+        max-width: calc(100% - 20px);
+        background-cover: fit;
+        box-shadow: 0px 0px 7px 0px rgba(0, 0, 0, 0.8);
+        border-radius: 2px;
+    }
+
+    .libro-content {
+        text-align: center;
+}
+
+    .libro h3 {
+        font-size: 20px;
+        font-weight: 600;
+        margin: 10px 0 0 0;
+}
+
+    .libro h3 small {
+        display: block;
+        font-size: 16px;
+        font-weight: 400;
+        font-style: italic;
+        margin: 7px 0 0 0;
+    }
+
+    .libro .libro-texto {
+        margin: 7px 0 0 0;
+        color: #777;
+}
+
+.libro .stock {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+}
+.libro .año {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+@media screen and (max-width:1150px) {
+    .libro {
+        width: calc(33% - 23px);
+    }
+}
+
+@media screen and (max-width:700px) {
+    .libro {
+        width: calc(50% - 43px);
+    }
+}
+
+@media screen and (max-width:400px) {
+    .libro {
+        width: 100%;
+    }
+}
+
+/* TABLE VIEW */
+
+@media screen and (min-width:401px) {
+    .cambiar-vista {
+        display: block;
+    }
+
+    #cambiarVista {
+        display: inline;
+    }
+
+    .libros-tabla .libro {
+        display: block;
+        width: auto;
+        margin: 10px 10px 30px 10px;
+    }
+
+        .libros-tabla .libro .libro-img {
+            display: inline-block;
+            margin: 0;
+            width: 120px;
+            height: 120px;
+            vertical-align: middle;
+        }
+
+        .libros-tabla .libro img {
+            width: auto;
+            height: 120px;
+            max-width: 120px;
+        }
+
+    .libros-tabla .libro-content{
+        text-align: left;
+        display: inline-block;
+        margin-left: 20px;
+        vertical-align: middle;
+        width: calc(100% - 145px);
+    }
+
+    .libros-tabla .libro h3 {
+        margin: 0;
+    }
+}

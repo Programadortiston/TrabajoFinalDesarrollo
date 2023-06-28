@@ -1,0 +1,48 @@
+﻿@model WebAppProyectoFinal.Models.TbAdmin
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<html>
+    <head>
+        <link rel="stylesheet" href="~/css/login.css" />
+    </head>
+    <body>
+        <div class="container">
+            <form class="form-signin" asp-controller="Admin" asp-action="Validar" id='valForm' method="post">
+                <h2 class="form-signin-heading">Admin Login</h2>
+
+            <div class="inputBox">
+                <input type="text" class="inputBox" required="required"
+                       asp-for="UserAdmin" id="username" />
+                <span >Usuario</span>
+                <span class="text-danger" asp-validation-for="UserAdmin"></span>
+                </div>
+
+
+            <div class="inputBox">
+                <input type="password" class="inputBox" required="required"
+                       asp-for="ContraAdmin" id="password" />
+                <span>Contraseña</span>
+                <span class="text-danger" asp-validation-for="ContraAdmin"></span>
+                </div>
+
+
+                <button class="enter" type="submit">
+                    Ingresar
+                </button>
+
+                <div class="customCheckBoxHolder">
+                    <input type="checkbox" id="check" onclick="mostrarPass()" class="customCheckBoxInput">
+                    <label for="check" class="customCheckBoxWrapper">
+                        <div class="customCheckBox">
+                            <div class="inner">Mostrar contraseña</div>
+                        </div>
+                    </label>
+                </div>
+            </form>
+        </div>
+    </body>
+</html>
+<script type="text/javascript" src="~/js/mostrarContra.js"></script>

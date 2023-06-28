@@ -1,0 +1,195 @@
+﻿    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    .form-signin .form-signin-heading,
+    .form-signin .checkbox {
+        color: #000;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        display: block;
+        font-weight: bold;
+        font-size: x-large;
+    }
+
+    .form-signin img {
+        width: 170px;
+        height: 170px;
+        padding: 10px;
+    }
+
+    .form-signin {
+        width: 400px;
+        height: 400px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 35px;
+        background: #e3e3e3;
+        box-shadow: 16px 16px 32px #c8c8c8, -16px -16px 32px #fefefe;
+        border-radius: 20px;
+        margin: 60px auto;
+    }
+
+    .inputBox {
+        position: relative;
+        width: 250px;
+    }
+
+    .inputBox input {
+        width: 100%;
+        padding: 10px;
+        outline: none;
+        border: none;
+        color: #000;
+        font-size: 1em;
+        background: transparent;
+        border-left: 2px solid #000;
+        border-bottom: 2px solid #000;
+        transition: 0.1s;
+        border-bottom-left-radius: 8px;
+    }
+
+    .inputBox span {
+        margin-top: 5px;
+        position: absolute;
+        left: 0;
+        transform: translateY(-4px);
+        margin-left: 10px;
+        padding: 10px;
+        pointer-events: none;
+        font-size: 12px;
+        color: #000;
+        text-transform: uppercase;
+        transition: 0.5s;
+        letter-spacing: 3px;
+        border-radius: 8px;
+    }
+
+    .inputBox input:valid ~ span,
+    .inputBox input:focus ~ span {
+        transform: translateX(113px) translateY(-15px);
+        font-size: 0.8em;
+        padding: 5px 10px;
+        background: #000;
+        letter-spacing: 0.2em;
+        color: #fff;
+        border: 2px;
+    }
+
+    .inputBox input:valid,
+    .inputBox input:focus {
+        border: 2px solid #000;
+        border-radius: 8px;
+    }
+
+    .enter {
+        height: 45px;
+        width: 100px;
+        border-radius: 5px;
+        border: 2px solid #000;
+        cursor: pointer;
+        background-color: transparent;
+        transition: 0.5s;
+        text-transform: uppercase;
+        font-size: 10px;
+        letter-spacing: 2px;
+        margin-bottom: 1em;
+    }
+
+    .enter:hover {
+        background-color: rgb(0, 0, 0);
+        color: white;
+    }
+
+    .a {
+        text-decoration: none;
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+.customCheckBoxHolder {
+    margin: 5px;
+    display: flex;
+}
+
+.customCheckBox {
+    width: fit-content;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    user-select: none;
+    padding: 2px 8px;
+    background-color: rgba(0, 0, 0, 0.16);
+    border-radius: 0px;
+    color: rgba(255, 255, 255, 0.7);
+    transition-timing-function: cubic-bezier(0.25, 0.8, 0.25, 1);
+    transition-duration: 300ms;
+    transition-property: color, background-color, box-shadow;
+    display: flex;
+    height: 32px;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 1px 0px inset, rgba(255, 255, 255, 0.17) 0px 1px 1px 0px;
+    outline: none;
+    justify-content: center;
+    min-width: 55px;
+}
+
+    .customCheckBox:hover {
+        background-color: #2c2c2c;
+        color: white;
+        box-shadow: rgba(0, 0, 0, 0.23) 0px -4px 1px 0px inset, rgba(255, 255, 255, 0.17) 0px -1px 1px 0px, rgba(0, 0, 0, 0.17) 0px 2px 4px 1px;
+    }
+
+    .customCheckBox .inner {
+        font-size: 18px;
+        font-weight: 900;
+        pointer-events: none;
+        transition-timing-function: cubic-bezier(0.25, 0.8, 0.25, 1);
+        transition-duration: 300ms;
+        transition-property: transform;
+        transform: translateY(0px);
+    }
+
+    .customCheckBox:hover .inner {
+        transform: translateY(-2px);
+    }
+
+/* Multiple Checkboxes can be chained together for a radio input */
+.customCheckBoxWrapper:first-of-type .customCheckBox {
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    border-right: 0px;
+}
+
+.customCheckBoxWrapper:last-of-type .customCheckBox {
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    border-left: 0px;
+}
+
+.customCheckBoxInput {
+    display: none;
+}
+
+    .customCheckBoxInput:checked + .customCheckBoxWrapper .customCheckBox {
+        background-color: #2d6737;
+        color: white;
+        box-shadow: rgba(0, 0, 0, 0.23) 0px -4px 1px 0px inset, rgba(255, 255, 255, 0.17) 0px -1px 1px 0px, rgba(0, 0, 0, 0.17) 0px 2px 4px 1px;
+    }
+
+        .customCheckBoxInput:checked + .customCheckBoxWrapper .customCheckBox .inner {
+            transform: translateY(-2px);
+        }
+
+        .customCheckBoxInput:checked + .customCheckBoxWrapper .customCheckBox:hover {
+            background-color: #34723f;
+            box-shadow: rgba(0, 0, 0, 0.26) 0px -4px 1px 0px inset, rgba(255, 255, 255, 0.17) 0px -1px 1px 0px, rgba(0, 0, 0, 0.15) 0px 3px 6px 2px;
+        }
+
+.customCheckBoxWrapper .customCheckBox:hover .inner {
+    transform: translateY(-2px);
+}

@@ -1,0 +1,41 @@
+﻿@model WebAppProyectoFinal.Models.TbLibro
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="~/css/reservar.css" />
+    </head>
+    <body>
+        <div class="row mt-5">
+            <div class="col-lg-5 col-md-12 col-12">
+                <img src="@Model.Link" class="img-fluid w-75 h-100" height="312" width="170" />
+            </div>
+            <div class="col-lg-6 col-md-12 col-12">
+                <h1>@Model.Titulo</h1>
+                <h2 class="py-4">Autor: @Model.Autor</h2>
+                <h3>Género: @Model.Genero</h3>
+                <h3>Stock: @Model.Stock</h3>
+                <form class="formulario" asp-controller="TemporalReserva" asp-action="Index" method="post">
+                    <input type="hidden" name="txtid" value="@Model.IdLibro" />
+                    <input type="hidden" name="txttitulo" value="@Model.Titulo" />
+                    <input type="hidden" name="txtgenero" value="@Model.Genero" />
+                    <input type="hidden" name="txtautor" value="@Model.Autor" />
+                    <input type="hidden" name="txtaño" value="@Model.Año" />
+                    <input type="hidden" name="txtstock" value="@Model.Stock" />
+                    <input type="number" name="txtcantidad" value="1" min="1" max="@Model.Stock" required/>
+                    <span class="validity"></span>
+                    <button type="submit" class="btn btn-success">
+                        <span class="glyphicon glyphicon-book" aria-hidden="true"></span> Reservar Libro
+                    </button>
+                    <h5 class="text-danger">Advertencia! Los libros NO se pueden repetir</h5>
+                </form>
+            </div>
+        </div>
+        
+        
+    </body>
+</html>

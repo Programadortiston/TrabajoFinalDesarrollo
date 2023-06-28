@@ -1,0 +1,25 @@
+﻿@model WebAppProyectoFinal.Models.TbLibro
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<html>
+<head>
+
+</head>
+<body>
+    <form asp-controller="Libro" asp-action="Grabar" method="post">
+        Titulo<input type="text" asp-for="Titulo" class="form-control" placeholder="Ingrese el titulo" />
+        Genero<input type="text" asp-for="Genero" class="form-control" placeholder="Ingrese el genero" />
+        Autor<input type="text" asp-for="Autor" class="form-control" placeholder="Ingrese el autor" />
+        Año<input type="text" asp-for="Año" class="form-control" placeholder="Ingrese el año" />
+        Stock<input type="number" asp-for="Stock" class="form-control" placeholder="Ingrese el stock" />
+        Link<input type="text" asp-for="Link" class="form-control" placeholder="Ingrese el link de la portada" />
+        <button type="submit" class="btn btn-success" onclick="return confirmarNuevo()">
+            <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Agregar
+        </button>
+    </form>
+</body>
+</html>
+<script type="text/javascript" src="~/js/confirmaciones.js"></script>
